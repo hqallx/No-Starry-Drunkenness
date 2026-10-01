@@ -1,0 +1,14 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "com.hqallx.nsd.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "nsd.refmap.json",
+  "mixins": [
+    "MixinEnigmaticDelightEventHandler",
+    "MixinDelightEffectEvents"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

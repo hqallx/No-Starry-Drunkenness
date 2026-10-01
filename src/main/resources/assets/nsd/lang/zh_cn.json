@@ -1,0 +1,5 @@
+{
+  "commands.nsd.removesd.success": "已为 %s 个目标移除星辉酩酊",
+  "commands.nsd.removesd.none": "目标身上没有星辉酩酊效果",
+  "commands.nsd.removesd.missing": "您似乎未安装神秘佳肴"
+}

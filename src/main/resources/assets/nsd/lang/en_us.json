@@ -1,0 +1,5 @@
+{
+  "commands.nsd.removesd.success": "Removed Starry Drunkenness from %s target(s).",
+  "commands.nsd.removesd.none": "The target(s) do not have Starry Drunkenness.",
+  "commands.nsd.removesd.missing": "It looks like you haven't installed Enigmatic Delicacy."
+}
